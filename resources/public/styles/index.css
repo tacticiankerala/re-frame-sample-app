@@ -1,0 +1,30 @@
+.loading {
+    position: absolute;
+    display: block;
+    top: 60px;
+    left: 60px;
+    z-index: 999;
+}
+.topbar {
+    padding: 20px 0;
+    background: #FFDC00;
+}
+
+.user-details {
+    position: absolute;
+    display: block;
+    top: 20px;
+    left: 20px;
+    padding: 5px;
+}
+.user-details img {
+    height: 100px;
+}
+
+.main-content {
+    margin-top: 20px;
+}
+
+.error-text {
+    padding-left: 5px;
+}
