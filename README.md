@@ -2,6 +2,8 @@
 
 A [re-frame](https://github.com/Day8/re-frame) sample application.
 
+## [DEMO](http://tacticiankerala.github.io/re-frame-sample-app/resources/public/index.html)
+
 ## Development Mode
 
 ### Run application:
